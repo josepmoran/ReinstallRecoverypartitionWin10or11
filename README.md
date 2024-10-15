@@ -2,6 +2,10 @@ Hello, to enable to use the software it is necessary to save the program on a US
 After create the folder and save inside the folder the two files, you just run the program. You can run the program after the installation of windows. 
 
 
+![image](https://github.com/user-attachments/assets/22ecc845-0e92-4dc5-8655-ef9411c420f3)
+
+
+
 
 
 
